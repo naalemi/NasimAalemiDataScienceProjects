@@ -1,6 +1,6 @@
 # 🚍 Predicting NYC School Bus Breakdowns & Delays
 
-*By Team B  — Nasim Aalemi, Shobha Panthi, James Gilmore*  
+*By Nasim Aalemi*  
 *DATA606 Capstone Project*
 
 [📂 GitHub Repository](https://github.com/naalemi/Predicting_NYC_School_Bus_Breakdowns_Capstone_Project-Team-B-)  
@@ -12,7 +12,7 @@
 
 Every school day, thousands of NYC students depend on yellow school buses to arrive safely and on time. But breakdowns and delays happen — sometimes frequently — disrupting schedules and impacting learning.
 
-In this project, we analyzed **228,000+ incident records (2022–2025)** from NYC Open Data to:
+In this project, I analyzed **228,000+ incident records (2022–2025)** from NYC Open Data to:
 - Identify patterns behind delays and breakdowns.
 - Predict **delay length** and **incident type** using machine learning.
 - Build interactive tools to support better decision-making for the NYC Department of Education.
