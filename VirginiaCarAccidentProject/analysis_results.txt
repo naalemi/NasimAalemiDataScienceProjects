@@ -1,0 +1,62 @@
+Class Distribution:
+Crash Severity Class
+Low       20000
+Medium    10000
+High        922
+
+
+
+
+Cross-Validation F1-Weighted Scores:
+[0.72330747 0.72142401 0.72182737]
+Mean: 0.7221862824955423
+Validation Set Classification Report:
+              precision    recall  f1-score   support
+
+        High       0.22      0.80      0.35       138
+         Low       0.75      0.81      0.78      3001
+      Medium       0.48      0.29      0.36      1500
+    accuracy                           0.64      4639
+   macro avg       0.48      0.63      0.50      4639
+weighted avg       0.65      0.64      0.63      4639
+
+Test Set Classification Report:
+              precision    recall  f1-score   support
+        High       0.21      0.74      0.33       231
+         Low       0.75      0.81      0.78      5000
+      Medium       0.48      0.29      0.36      2500
+    accuracy                           0.64      7731
+   macro avg       0.48      0.61      0.49      7731
+weighted avg       0.64      0.64      0.63      7731
+
+Validation Set (High Class) with Adjusted Threshold:
+              precision    recall  f1-score   support
+           0       0.99      0.95      0.97      4501
+           1       0.28      0.70      0.41       138
+    accuracy                           0.94      4639
+   macro avg       0.64      0.82      0.69      4639
+weighted avg       0.97      0.94      0.95      4639
+
+
+
+
+
+
+
+
+Feature Importances:
+                        feature  importance
+11             Speed_Difficulty    0.436851
+0        Collision Type_grouped    0.158977
+1                 Vehicle Count    0.075922
+3               Impaired_Driver    0.059749
+2              Vulnerable_Users    0.057212
+12  Roadway Description_grouped    0.053238
+13        VDOT District_grouped    0.050694
+8                    Crash_Hour    0.037304
+7                  Light_Hazard    0.020868
+10                 Is_Rush_Hour    0.013920
+9                    Is_Weekend    0.012804
+6           Road_Surface_Hazard    0.012595
+5                Weather_Hazard    0.009866
+4             Unrestrained_Risk    0.000000
