@@ -3,7 +3,8 @@
 *By Nasim Aalemi*  
 *DATA606 Capstone Project*
 
-[📂 GitHub Repository](https://github.com/naalemi/Predicting_NYC_School_Bus_Breakdowns_Capstone_Project-Team-B-)  
+[📝 NYC School Bus Project Blog](https://naalemi.github.io/TeamB_Predicting_NYC_School_Bus_Breakdowns_and_Delays/) 
+[📂 GitHub Repository](https://github.com/naalemi/NasimAalemiDataScienceProjects/tree/main/NYC_SchoolBus_BreakdownOrDelay)  
 [📊 Dataset – NYC Open Data](https://data.cityofnewyork.us/Transportation/Bus-Breakdown-and-Delays/ez4e-fazm/about_data)  
 
 ---
